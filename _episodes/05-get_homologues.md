@@ -34,9 +34,9 @@ conda activate Pangenomics
 ~~~
 {: .source}
 Now, We ensure that get_homologues is install
-
-> get_homologues.pl -h
-
+~~~
+$ get_homologues.pl -h
+~~~
 {: .laguage-bash}
 
 
